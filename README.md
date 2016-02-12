@@ -1,2 +1,2 @@
 # TestStuff
-To test stuff, mostly GIT workflows :)
+To test stuff, mostly GIT  :)
