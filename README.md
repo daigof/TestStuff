@@ -1,2 +1,2 @@
 # TestStuff
-To test stuff, libraries, frameworks, web technologies, etc
+To test stuff, mostly GIT workflows :)
